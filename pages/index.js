@@ -6,9 +6,7 @@ import React from 'react';
 export default function Home() {
   return (
     <>
-    <head>
-    <script src="https://kit.fontawesome.com/65d8f8c3d1.js" crossorigin="anonymous"></script>
-    </head>
+    
       <div className='head-box bg-primary text-center'>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry
